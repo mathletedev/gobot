@@ -2,4 +2,4 @@
 .env
 
 # distribution
-.exe
+*.exe
